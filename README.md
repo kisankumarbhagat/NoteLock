@@ -14,6 +14,9 @@
 - **XML**: Used for designing the app's layout and UI components.
 - **Firebase Authentication**: Provides secure user login and registration.
 
+  ![logo](https://github.com/user-attachments/assets/2dc8abaf-68a9-4315-bae5-d8aa36112376)
+
+
 ## Getting Started
 
 ### Prerequisites
