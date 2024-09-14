@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823899836955",
+    "project_id": "notelock-138df",
+    "storage_bucket": "notelock-138df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823899836955:android:23381659e1db5c9c581ebe",
+        "android_client_info": {
+          "package_name": "com.example.notelock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4ydgfLHL9OMiPvs3WP4jbdC_yFMm8oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
